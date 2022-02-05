@@ -2,7 +2,7 @@
   "id": "sprotty",
   "children": [
     {
-      "name": "Push",
+      "name": "Push01",
       "taskType": "manual",
       "id": "task0",
       "cssClasses": [
@@ -33,7 +33,7 @@
             "width": 31.921875,
             "height": 16.0
           },
-          "text": "Push",
+          "text": "Push-1",
           "alignment": {
             "x": 15.9609375,
             "y": 13.0
