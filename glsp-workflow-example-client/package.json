@@ -25,6 +25,8 @@
   },
   "workspaces": [
     "packages/*",
-    "workflow-standalone/*"
+    "./workflow-glsp",
+    "./workflow-standalone"
   ]
+  
 }
