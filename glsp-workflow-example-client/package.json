@@ -25,6 +25,6 @@
   },
   "workspaces": [
     "packages/*",
-    "examples/*"
+    "workflow-standalone/*"
   ]
 }
