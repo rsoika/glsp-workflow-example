@@ -1,1 +1,0 @@
-{"version":3,"file":"argumentable.d.ts","sourceRoot":"","sources":["../../src/base/argumentable.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;kFAckF;AAClF,OAAO,EAAE,IAAI,EAAE,MAAM,wBAAwB,CAAC;AAC9C,OAAO,EAAE,aAAa,EAAE,MAAM,SAAS,CAAC;AAExC,MAAM,WAAW,aAAa;IAC1B,IAAI,EAAE,IAAI,CAAC;CACd;AAED,wBAAgB,YAAY,CAAC,OAAO,CAAC,EAAE,aAAa,GAAG,OAAO,IAAI,aAAa,GAAG,aAAa,CAE9F"}

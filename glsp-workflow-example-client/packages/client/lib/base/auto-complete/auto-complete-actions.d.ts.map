@@ -1,1 +1,0 @@
-{"version":3,"file":"auto-complete-actions.d.ts","sourceRoot":"","sources":["../../../src/base/auto-complete/auto-complete-actions.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;kFAckF;AAClF,OAAO,EAAE,aAAa,EAAE,MAAM,wBAAwB,CAAC;AAEvD,MAAM,WAAW,0BAA2B,SAAQ,aAAa;IAC7D,QAAQ,CAAC,IAAI,EAAE,MAAM,CAAC;CACzB;AAED,wBAAgB,4BAA4B,CAAC,MAAM,EAAE,aAAa,GAAG,MAAM,IAAI,0BAA0B,CAExG"}
