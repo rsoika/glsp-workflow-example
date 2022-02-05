@@ -15,9 +15,9 @@ From the /target/ folder you can now start the server by executing the following
 	$ cd target
 	$ java -jar glsp-workflow-example-server-X.X.X-SNAPSHOT-glsp.jar org.eclipse.glsp.example.workflow.launch.ExampleServerLauncher
 
-To run the server on port 8081
+For the HTML5 client you need to run the server on port 8081
 
-	$ java -jar org.eclipse.glsp.example.workflow-X.X.X-SNAPSHOT-glsp.jar org.eclipse.glsp.example.workflow.launch.ExampleServerLauncher --port=8081 --websocket
+	$ java -jar glsp-workflow-example-server-X.X.X-SNAPSHOT-glsp.jar org.eclipse.glsp.example.workflow.launch.ExampleServerLauncher --port=8081 --websocket
 
 To start the example server from within your IDE, run the main method of the class `WorkflowServerLauncher.java` in the module `org.eclipse.glsp.example.workflow.launch` 
 
