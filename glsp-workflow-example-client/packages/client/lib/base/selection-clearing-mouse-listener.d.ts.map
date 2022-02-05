@@ -1,0 +1,1 @@
+{"version":3,"file":"selection-clearing-mouse-listener.d.ts","sourceRoot":"","sources":["../../src/base/selection-clearing-mouse-listener.ts"],"names":[],"mappings":"AAgBA,OAAO,EAAE,aAAa,EAAE,aAAa,EAAE,MAAM,SAAS,CAAC;AAEvD;;;;;;;;;;;GAWG;AACH,qBACa,8BAA+B,SAAQ,aAAa;IAC7D,SAAS,CAAC,OAAO,EAAE,aAAa,EAAE,KAAK,EAAE,UAAU,GAAG,KAAK,EAAE;CAUhE"}

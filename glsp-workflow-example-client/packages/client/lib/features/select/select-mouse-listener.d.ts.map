@@ -1,0 +1,1 @@
+{"version":3,"file":"select-mouse-listener.d.ts","sourceRoot":"","sources":["../../../src/features/select/select-mouse-listener.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;kFAckF;AAClF,OAAO,EAAE,mBAAmB,EAAE,MAAM,SAAS,CAAC;AAE9C,OAAO,EAAgB,MAAM,EAAE,MAAM,eAAe,CAAC;AAErD;;;GAGG;AACH,qBAAa,yBAA0B,SAAQ,mBAAoB,YAAW,MAAM;IAChF,IAAI,EAAE,MAAM,CAAoB;CACnC"}

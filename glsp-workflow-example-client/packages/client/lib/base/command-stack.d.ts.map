@@ -1,0 +1,1 @@
+{"version":3,"file":"command-stack.d.ts","sourceRoot":"","sources":["../../src/base/command-stack.ts"],"names":[],"mappings":"AAiBA,OAAO,EAAE,YAAY,EAAE,iBAAiB,EAAE,UAAU,EAAS,MAAM,SAAS,CAAC;AAE7E,qBACa,gBAAiB,SAAQ,YAAY;IACL,SAAS,CAAC,gBAAgB,EAAE,MAAM,OAAO,CAAC,iBAAiB,CAAC,CAAC;IAEtG,IAAI,IAAI,OAAO,CAAC,UAAU,CAAC;IAK3B,IAAI,IAAI,OAAO,CAAC,UAAU,CAAC;CAI9B"}
