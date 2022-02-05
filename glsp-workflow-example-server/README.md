@@ -1,6 +1,6 @@
 # glsp-workflow-example-client
 
-This module contains the server implementation
+This module contains the server implementation of the glsp-workflow-example. The server implementation is same for every target platform (HTML5, Eclipse Theia, VSCode, Eclipse RCP).
 
 ## Building the Workflow Diagram example server
 
